@@ -38,4 +38,14 @@ a:hover {
 img {
     height: auto;
     width: 500px;
-  }
+}
+
+ul {
+    border: 3px solid #AE5102;
+    padding: 20px 50px;
+    margin: 40px 50px;
+}
+
+p {
+    padding: 0 15px;
+}
